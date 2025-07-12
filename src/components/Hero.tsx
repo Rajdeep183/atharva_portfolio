@@ -43,22 +43,6 @@ const Hero = () => {
             </p>
           </div>
           
-          {/* Floating cards with key highlights */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto mb-16">
-            <div className="bg-background/60 backdrop-blur-sm rounded-2xl p-6 shadow-immersive hover:shadow-glow transition-all duration-300 hover:-translate-y-2">
-              <div className="text-3xl font-bold text-primary mb-2">2+</div>
-              <div className="text-sm text-muted-foreground">Years Experience</div>
-            </div>
-            <div className="bg-background/60 backdrop-blur-sm rounded-2xl p-6 shadow-immersive hover:shadow-glow transition-all duration-300 hover:-translate-y-2">
-              <div className="text-3xl font-bold text-primary mb-2">10+</div>
-              <div className="text-sm text-muted-foreground">ML Projects</div>
-            </div>
-            <div className="bg-background/60 backdrop-blur-sm rounded-2xl p-6 shadow-immersive hover:shadow-glow transition-all duration-300 hover:-translate-y-2">
-              <div className="text-3xl font-bold text-primary mb-2">1</div>
-              <div className="text-sm text-muted-foreground">Patent Filed</div>
-            </div>
-          </div>
-          
           {/* Call to action buttons */}
           <div className="flex flex-col sm:flex-row justify-center gap-6">
             <Button variant="hero" size="lg" className="group px-8 py-4 text-lg shadow-immersive">
