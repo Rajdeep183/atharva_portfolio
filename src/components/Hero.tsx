@@ -35,11 +35,10 @@ const Hero = () => {
           {/* Enhanced subtitle with better contrast */}
           <div className="max-w-4xl mx-auto mb-12">
             <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed font-light">
-              <span className="text-primary font-medium">Machine Learning Engineer</span> crafting intelligent systems that make data talk.
+              <span className="text-primary font-medium">Machine Learning Engineer</span> 
             </p>
             <p className="text-lg md:text-xl text-muted-foreground mt-4 leading-relaxed">
-              From building prediction engines and chatbots to deploying real-time vision models, 
-              I bring ideas to life using AI, deep learning, and cloud-native tools.
+              Building intelligent systems with code, data, and a purpose.
             </p>
           </div>
           
