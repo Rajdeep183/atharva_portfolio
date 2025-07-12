@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 import ExperienceCard from "@/components/ExperienceCard";
 import ProjectCard from "@/components/ProjectCard";
 import CertificationCard from "@/components/CertificationCard";
+import ContactSection from "@/components/ContactSection";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Brain, Code, Database, Cloud, Award, FileText } from "lucide-react";
@@ -196,6 +197,9 @@ const Index = () => {
           </div>
         </div>
       </section>
+      
+      {/* Contact Section */}
+      <ContactSection />
 
       {/* Footer */}
       <footer className="py-12 bg-foreground text-background">
