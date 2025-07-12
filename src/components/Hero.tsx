@@ -43,11 +43,21 @@ const Hero = () => {
           </div>
           
           {/* Call to action buttons */}
+          <a
+              href="https://drive.google.com/file/d/1kTAZfZ_mwgAPzTXVooi3ibhndejQNO3p/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+          >
           <div className="flex flex-col sm:flex-row justify-center gap-6">
             <Button variant="hero" size="lg" className="group px-8 py-4 text-lg shadow-immersive">
               <Download className="mr-3 h-6 w-6 group-hover:scale-110 transition-transform" />
-              Download Resume
+              Resume
             </Button>
+            <a
+              href="https://www.linkedin.com/in/atharvaanandv"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
             <Button variant="professional" size="lg" className="group px-8 py-4 text-lg shadow-immersive">
               <Linkedin className="mr-3 h-6 w-6 group-hover:scale-110 transition-transform" />
               View LinkedIn
