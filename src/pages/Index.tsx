@@ -20,7 +20,7 @@ const Index = () => {
         "Integrated Langchain to extract and summarize medical insights, exporting results as a detailed PDF report from JSON data.",
         "Contributed to the full development lifecycle of a hardware defect detection system, specializing in identifying product anomalies and automating sorting processes for hardware components."
       ],
-      link: "#"
+      link: "https://www.trendzlink.com/"
     },
     {
       company: "Mobikode Software Pvt Ltd",
@@ -33,7 +33,7 @@ const Index = () => {
         "Implemented a sentiment classification model using advanced Natural Language Processing (NLP) techniques with Keras LSTM networks.",
         "Designed and trained a generative chatbot employing deep learning-based encoder-decoder architectures to generate coherent and contextually relevant responses."
       ],
-      link: "#"
+      link: "https://www.mobikode.com/"
     }
   ];
 
@@ -42,19 +42,19 @@ const Index = () => {
       title: "Hotel Price Prediction Model",
       description: "Developed a prediction model for hotel bookings using multiple machine learning techniques in Scikit-learn to understand their impact on predictions using the hotel prices dataset.",
       technologies: ["Python", "Scikit-learn", "Machine Learning", "Data Analysis"],
-      link: "#"
+      link: "https://github.com/Atharva-A-V/hotel-price-prediction"
     },
     {
       title: "Dataset Visualizer using AWS",
       description: "Developed a pipeline using AWS S3 and Quicksight to visualize complex and large datasets effectively using the Amazon best-selling product data set.",
       technologies: ["AWS S3", "QuickSight", "Data Visualization", "Cloud Computing"],
-      link: "#"
+      link: "https://github.com/Atharva-A-V/Data-visualizer-"
     },
     {
       title: "Driver Drowsiness Detection",
       description: "Built a real-time drowsiness detection system using a custom-trained YOLO model to identify facial cues such as eye closure, yawning, and head posture.",
       technologies: ["YOLO", "Computer Vision", "Deep Learning", "Real-time Processing"],
-      link: "#"
+      link: "https://github.com/Atharva-A-V/drowsiness_detection"
     }
   ];
 
@@ -162,7 +162,7 @@ const Index = () => {
               issuer="Amazon Web Services"
               date="June 2025"
               validUntil="June 2028"
-              link="#"
+              link="https://www.credly.com/badges/dc335113-c634-417d-93a3-76f608f3dd4b/public_url"
             />
           </div>
         </div>
